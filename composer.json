@@ -1,7 +1,7 @@
 {
-	"name" : "portalium/portalium-template",
-	"description" : "Module Template for Portalium",
-	"type" : "yii2-extension",
+	"name" : "eges7/portalium-todo",
+	"description" : "Module ToDo for Portalium",
+	"type" : "portalium-module",
 	"license": "MIT",
 	"homepage" : "https://portalium.dev",
 	"authors" : [
@@ -16,7 +16,7 @@
 	},
 	"autoload" : {
 		"psr-4" : {
-			"portalium\\template\\" : "src/"
+			"eges7\\todo\\" : "src/"
 		}
 	}
 }
